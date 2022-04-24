@@ -24,24 +24,24 @@ Results
 Please refer to the 6 images for more details.
 
 1) Naive random oversampling 
-![](Resources/naive.png)
+![](resources/naive.png)
 
 2) SMOTE Oversampling
-![](Resources/smoteover.png)
+![](resources/smoteover.png)
 
 
 3) SMOTE undersampling
-![](Resources/smoteunder.png)
+![](resources/smoteunder.png)
 
 
 4) Combination (over and under sampling)
-![](Resources/smoteenn.png)
+![](resources/smoteenn.png)
 
 5) Balanced Random Forest Classifier
-![](Resources/RForest.png)
+![](resources/RForest.png)
 
 6) Easy Emsemble Adaboost Classifier
-![](Resources/easy.png)
+![](resources/easy.png)
 
 - Summary
 
